@@ -1,0 +1,15 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\DataTransferObject\obj\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\DataTransferObject\obj\Debug\DataTransferObject.pdb

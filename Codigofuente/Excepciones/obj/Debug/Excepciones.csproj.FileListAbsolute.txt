@@ -1,0 +1,15 @@
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\bin\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\bin\Debug\Excepciones.pdb
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.dll
+E:\Users\User\Documents\GitHub\tpfinalTallerProgramacion\ProyectoTallerProgramacion\Excepciones\obj\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.pdb
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.dll
+E:\UTN\3er Año\Taller de Programacion\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Dan\Downloads\TPFinalTallerProgramacion2\TPFinalTallerProgramacion\Codigo fuente\Excepciones\obj\Debug\Excepciones.pdb
