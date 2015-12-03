@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace CorreoServicio
 {
     class ClasePrueba
-    { //nueva prueba modificada
+    { //nueva prueba modificada, de la rama1
     }
 }
